@@ -1,0 +1,4 @@
+git is the one of the vcs tool
+it is used to track the devoloper chnages code 
+as well as version the branching concepts
+
